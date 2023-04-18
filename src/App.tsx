@@ -92,7 +92,7 @@ const App: FC = () => {
                     <LiveHelpIcon />
                 </Fab>
 
-                <Fab onClick={() => window.location.href = 'https://github.com/cjhahaha/webvpn4DUT'}>
+                <Fab onClick={() => window.location.href = 'https://github.com/Janet-Baker/webvpn4dut'}>
                     <GitHubIcon />
                 </Fab>
             </div>

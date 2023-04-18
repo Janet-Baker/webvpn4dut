@@ -71,14 +71,14 @@ function encrypUrl(protocol, url) {
 			if (v6 != '') {
 				url = v6;
 			}
-			url = encrypt(url, 'wrdvpnisthebest!', 'wrdvpnisthebest!')
+			url = encrypt(url, 'Wxzxvpn2023key@$', 'Wxzxvpn2023key@$')
 		} else {
 			var host = url.slice(0, i);
 			var path = url.slice(i);
 			if (v6 != '') {
 				host = v6;
 			}
-			url = encrypt(host, 'wrdvpnisthebest!', 'wrdvpnisthebest!') + path;
+			url = encrypt(host, 'Wxzxvpn2023key@$', 'Wxzxvpn2023key@$') + path;
 		}
 	}
 	if (port != '') {
